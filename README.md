@@ -1,2 +1,2 @@
-# Cau-hinh-mail-tr-n--CentOS
+# Cau-hinh-mail-tren-CentOS
 Cấu hình mail trên CentOS
